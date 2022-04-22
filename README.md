@@ -1,5 +1,15 @@
 # ADLD
 # 01fe19bec294/Prathamesh S Rane / E div
+
+## Course project
+## License Plate Recognition
+
+## Output
+![Screenshot (153)](https://user-images.githubusercontent.com/60054998/164757521-59399970-60b2-4536-b692-ad16554b5104.png)
+![image](https://user-images.githubusercontent.com/60054998/164755746-482a2a16-580f-44dd-95ce-88a0e1bdc1e1.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/60054998/164757302-7731f646-e84a-4f6b-9cb2-cf124e5d2b2e.png)
+
+
 ## GCD
 ### gcd algorithm implementation
 ## Design
